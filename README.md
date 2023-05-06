@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boluwatife Ojolowo</h1>
-<h3 align="center">Intending Senior Frontend Engineer</h3>
+<h3 align="center">A Senior Frontend Engineer</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/ojolowoblue/ojolowoblue/blob/main/animation_500_kxa883sd.gif" alt="ojolowoblue" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Svelte
 
 - 📫 How to reach me **ojolowoblue@gmail.com**
 
