@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boluwatife Ojolowo</h1>
-<h3 align="center">Intending Senior Frontend Engineer</h3>
+<h3 align="center">Intending Senior Frontend Engineer.</h3>
 
 <br>
 
@@ -50,16 +50,16 @@
       alt="nodejs" width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
-       <a href="https://tailwindcss.com" target="_blank">
+       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> </p>
+        <a href="https://tailwindcss.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
       <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
     </picture>
   </a>
-       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
 
 <br>
 
