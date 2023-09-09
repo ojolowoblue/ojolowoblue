@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Boluwatife Ojolowo</h1>
-<h3 align="center">A Senior Frontend Engineer</h3>
+<h1 align="center">Hi 👋, I'm Blue</h1>
+<h3 align="center">A Frontend Engineer</h3>
 
 <br>
 
