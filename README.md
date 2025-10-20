@@ -1,1 +1,1 @@
-I make websites go skraa... papapa
+I'm engineering the solutions that empowers soft-life living for everyone
