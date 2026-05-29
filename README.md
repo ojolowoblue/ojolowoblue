@@ -1,1 +1,1 @@
-I'm engineering the solutions that enables soft-life living for everyone
+I'm engineering the solutions that make the world a better place to live.
